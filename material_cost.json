@@ -1,0 +1,766 @@
+[
+  {
+    "id": 100,
+    "materialName": "PCC POLE 8MTR",
+    "unit": "NO",
+    "rate": 0
+  },
+  {
+    "id": 101,
+    "materialName": "PCC POLE 9MTR",
+    "unit": "NO",
+    "rate": 3692
+  },
+  {
+    "id": 102,
+    "materialName": "PCC Pole 11MTR",
+    "unit": "NO",
+    "rate": 7601
+ },
+  {
+    "id": 1022,
+    "materialName": "MS Rail Pole",
+    "unit": "NO",
+    "rate": 0
+  },
+  {
+    "id": 10221,
+    "materialName": "MS Rail Pole 7-8m 60LBS",
+    "unit": "NO",
+    "rate": 1977
+  },
+  {
+    "id": 10222,
+    "materialName": "MS Rail Pole 7-8m 90LBS",
+    "unit": "NO",
+    "rate": 2779
+  },
+  {
+    "id": 10223,
+    "materialName": "Rail Pole 10MTR 60LBS",
+    "unit": "NO",
+    "rate": 2153
+  },
+  {
+    "id": 10224,
+    "materialName": "Rail Pole 11MTR 90LB",
+    "unit": "NO",
+    "rate": 5817
+  },
+  {
+    "id": 10225,
+    "materialName": "Rail Pole 13MTR 90LB",
+    "unit": "NO",
+    "rate": 11626
+  },
+  {
+    "id": 1023,
+    "materialName": "Tubular Pole",
+    "unit": "NO",
+    "rate": 0
+  },
+
+  {
+    "id": 1031,
+    "materialName": "ACSR 13MM2",
+    "unit": "MTR",
+    "rate": 0
+  },
+ {
+   "id": 103,
+   "materialName": "ACSR 30MM2",
+   "unit": "MTR",
+   "rate": 39.00
+ },
+ {
+   "id": 104,
+   "materialName": "ACSR 50MM2",
+   "unit": "MTR",
+   "rate": 66.37
+ },
+ {
+   "id": 105,
+   "materialName": "ACSR 80MM2",
+   "unit": "MTR",
+   "rate": 110.00
+ },
+ {
+   "id": 106,
+   "materialName": "ACSR 100MM2",
+   "unit": "MTR",
+   "rate":117.00
+ },
+ {
+   "id": 107,
+   "materialName": "11KV 3/C CABLE 35MM2",
+   "unit": "MTR",
+   "rate": 470.8
+ },
+ {
+   "id": 108,
+   "materialName": "11KV 3/C CABLE 150MM2",
+   "unit": "MTR",
+   "rate": 981.18
+ },
+ {
+   "id": 109,
+   "materialName": "11KV 3/C CABLE 300MM2",
+   "unit": "MTR",
+   "rate": 1644.03
+ },
+ {
+   "id": 110,
+   "materialName": "11KV C/B O/D 35MM2",
+   "unit": "NO",
+   "rate": 832
+ },
+ {
+   "id": 111,
+   "materialName": "11KV C/B O/D 150MM2",
+   "unit": "NO",
+   "rate": 798
+ },
+ {
+   "id": 112,
+   "materialName": "11KV C/B O/D 300MM2",
+   "unit": "NO",
+   "rate": 1048
+ },
+ {
+   "id": 113,
+   "materialName": "11KV C/B I/D 35MM2",
+   "unit": "NO",
+   "rate": 592
+ },
+ {
+   "id": 114,
+   "materialName": "11KV C/B I/D 150MM2",
+   "unit": "NO",
+   "rate": 750
+ },
+ {
+   "id": 115,
+   "materialName": "11KV C/B I/D 300MM2",
+   "unit": "NO",
+   "rate": 1000
+ },
+  {
+    "id": 113113,
+    "materialName": "11KV ST.TH.JT XLPE 35MM2",
+    "unit": "NO",
+    "rate": 2189
+  },
+  {
+    "id": 114113,
+    "materialName": "11KV ST.TH.JT XLPE 150MM2",
+    "unit": "NO",
+    "rate": 2745
+  },
+  {
+    "id": 115115,
+    "materialName": "11KV ST.TH.JT XLPE 300MM2",
+    "unit": "NO",
+    "rate": 3384
+  },
+ {
+   "id": 116,
+   "materialName": "GO Switch 75Amps",
+   "unit": "NO",
+   "rate": 5682
+ },
+  {
+    "id": 11712,
+    "materialName": "GO Switch 400 Amps",
+    "unit": "NO",
+    "rate": 10899
+  },
+  {
+    "id": 11722,
+    "materialName": "AB Switch 75 Amps",
+    "unit": "NO",
+    "rate": 3314
+  },
+ {
+   "id": 117,
+   "materialName": "AB Switch 400 Amps",
+   "unit": "NO",
+   "rate": 12539
+ },
+ {
+   "id": 118,
+   "materialName": "HT Fuse Unit",
+   "unit": "NO",
+   "rate": 1749
+ },
+ {
+   "id": 119,
+   "materialName": "LT Fuse Unit",
+   "unit": "NO",
+   "rate": 455
+ },
+ {
+   "id": 120,
+   "materialName": "Pin Insulators",
+   "unit": "NO",
+   "rate": 184
+ },
+ {
+   "id": 121,
+   "materialName": "GI Pins",
+   "unit": "NO",
+   "rate": 169
+ },
+  {
+    "id": 120120,
+    "materialName": "11KV Pin Insulator & Tie",
+    "unit": "NO",
+    "rate": 287
+  },
+ {
+   "id": 122,
+   "materialName": "11KV Disc Insulator",
+   "unit": "NO",
+   "rate": 275
+ },
+ {
+   "id": 123,
+   "materialName": "Dead end Clamps",
+   "unit": "NO",
+   "rate": 312
+ },
+ {
+   "id": 124,
+   "materialName": "V-Shape X-ARM",
+   "unit": "NO",
+   "rate": 802
+ },
+  {
+    "id": 124124,
+    "materialName": "X-ARM FRP Type",
+    "unit": "NO",
+    "rate": 374
+  },
+  {
+    "id": 124123,
+    "materialName": "Clamp for FRP X-arm",
+    "unit": "NO",
+    "rate": 130
+  },
+  {
+    "id": 124125,
+    "materialName": "Clamp for Bracing 11MTR",
+    "unit": "NO",
+    "rate": 130
+  },
+  {
+    "id": 124126,
+    "materialName": "Clamp for Cantilever 9MTR",
+    "unit": "NO",
+    "rate": 130
+  },
+  {
+    "id": 124127,
+    "materialName": "Clamp for Capacitor (round",
+    "unit": "NO",
+
+    "rate": 130
+  },
+  {
+    "id": 124128,
+    "materialName": "Clamp for Capacitor (U Type)",
+    "unit": "NO",
+    "rate": 130
+  },
+ {
+   "id": 125,
+   "materialName": "Top Hammper for 9M",
+   "unit": "NO",
+   "rate": 195
+ },
+ {
+   "id": 126,
+   "materialName": "Top Hammper for 11M",
+   "unit": "NO",
+   "rate": 160
+ },
+ {
+   "id": 127,
+   "materialName": "Earth rod",
+   "unit": "NO",
+   "rate": 602
+ },
+ {
+   "id": 128,
+   "materialName": "GSL 4mm",
+   "unit": "KG",
+   "rate": 78.92
+ },
+ {
+   "id": 129,
+   "materialName": "GSS Wire",
+   "unit": "KG",
+   "rate": 84.04
+ },
+ {
+   "id": 130,
+   "materialName": "Egg Insulator 9000KN",
+   "unit": "NO",
+   "rate": 41
+ },
+ {
+   "id": 131,
+   "materialName": "Stay Set complete",
+   "unit": "NO",
+   "rate": 432
+ },
+ {
+   "id": 132,
+   "materialName": "RCC Anchor Plate",
+   "unit": "NO",
+   "rate": 220
+ },
+ {
+   "id": 133,
+   "materialName": "MS Channel 100x50mm",
+   "unit": "KG",
+   "rate": 90.86
+ },
+ {
+   "id": 134,
+   "materialName": "MS Channel 75x40mm",
+   "unit": "KG",
+   "rate": 92.16
+ },
+ {
+   "id": 135,
+   "materialName": "MS Flat 40x6mm",
+   "unit": "KG",
+   "rate": 83.07
+ },
+ {
+   "id": 136,
+   "materialName": "MS Flat 50x6mm",
+   "unit": "KG",
+   "rate": 83.07
+ },
+ {
+   "id": 137,
+   "materialName": "MS Angle 50x50x6mm",
+   "unit": "KG",
+   "rate": 84.75
+ },
+ {
+   "id": 138,
+   "materialName": "MS Angle 65x65x6mm",
+   "unit": "KG",
+   "rate": 84.75
+ },
+ {
+   "id": 139,
+   "materialName": "MS NUT & BOLT 55x16mm2",
+   "unit": "KG",
+   "rate": 96.00
+ },
+ {
+   "id": 140,
+   "materialName": "MS NUT & BOLT 125x12mm2",
+   "unit": "KG",
+   "rate": 76.57
+ },
+ {
+   "id": 141,
+   "materialName": "MS NUT & BOLT 175x12mm2",
+   "unit": "KG",
+   "rate": 96.99
+ },
+ {
+   "id": 142,
+   "materialName": "MS NUT & BOLT 200x12mm2",
+   "unit": "KG",
+   "rate": 96.99
+ },
+ {
+   "id": 143,
+   "materialName": "MS NUT & BOLT 200x16mm2",
+   "unit": "KG",
+   "rate": 76.57
+ },
+ {
+   "id": 144,
+   "materialName": "MS NUT & BOLT 225x12mm2",
+   "unit": "KG",
+   "rate": 96.99
+ },
+ {
+   "id": 145,
+   "materialName": "2 Core PVC 6mm2",
+   "unit": "MTR",
+   "rate": 16.84
+ },
+ {
+   "id": 146,
+   "materialName": "2 Core PVC 10mm2",
+   "unit": "MTR",
+   "rate": 38.00
+ },
+ {
+   "id": 147,
+   "materialName": "1 Core LT Cable 95mm2",
+   "unit": "MTR",
+   "rate": 116.00
+ },
+ {
+   "id": 148,
+   "materialName": "1 Core LT Cable 150mm2",
+   "unit": "MTR",
+   "rate": 141.44
+ },
+  {
+    "id": 1491,
+    "materialName": "4 Core LT Cable 4mm2",
+    "unit": "MTR",
+    "rate": 28.93
+  },
+ {
+   "id": 149,
+   "materialName": "4 Core LT Cable 6mm2",
+   "unit": "MTR",
+   "rate": 44.29
+ },
+ {
+   "id": 150,
+   "materialName": "4 Core LT Cable 10mm2",
+   "unit": "MTR",
+   "rate": 85.00
+ },
+ {
+   "id": 151,
+   "materialName": "4 Core LT Cable 16mm2",
+   "unit": "MTR",
+   "rate": 94.00
+ },
+ {
+   "id": 152,
+   "materialName": "4 Core LT Cable 25mm2",
+   "unit": "MTR",
+   "rate": 150.00
+ },
+ {
+   "id": 153,
+   "materialName": "4 Core LT Cable 50mm2",
+   "unit": "MTR",
+   "rate": 255.00
+ },
+ {
+   "id": 154,
+   "materialName": "4 Core LT Cable 95mm2",
+   "unit": "MTR",
+   "rate": 429.43
+ },
+ {
+   "id": 155,
+   "materialName": "4 Core LT Cable 150mm2",
+   "unit": "MTR",
+   "rate": 611.00
+ },
+ {
+   "id": 156,
+   "materialName": "4 Core LT Cable 300mm2",
+   "unit": "MTR",
+   "rate": 925.13
+ },
+ {
+   "id": 157,
+   "materialName": "6.3 KVA T/F",
+   "unit": "NO",
+   "rate": 28974
+ },
+ {
+   "id": 158,
+   "materialName": "10 KVA T/F 1P",
+   "unit": "NO",
+   "rate": 40964
+ },
+ {
+   "id": 159,
+   "materialName": "10 KVA T/F 3P",
+   "unit": "NO",
+   "rate": 50817
+ },
+ {
+   "id": 160,
+   "materialName": "16 KVA T/F",
+   "unit": "NO",
+   "rate": 59265
+ },
+ {
+   "id": 161,
+   "materialName": "25 KVA T/F 1P",
+   "unit": "NO",
+   "rate": 56431
+ },
+ {
+   "id": 162,
+   "materialName": "25 KVA T/F 3P",
+   "unit": "NO",
+   "rate": 77932
+ },
+ {
+   "id": 163,
+   "materialName": "63 KVA T/F",
+   "unit": "NO",
+   "rate": 134974
+ },
+ {
+   "id": 164,
+   "materialName": "100 KVA T/F",
+   "unit": "NO",
+   "rate": 185926
+ },
+ {
+   "id": 165,
+   "materialName": "200 KVA T/F",
+   "unit": "NO",
+   "rate": 309305
+ },
+ {
+   "id": 166,
+   "materialName": "300 KVA T/F",
+   "unit": "NO",
+   "rate": 278025
+ },
+ {
+   "id": 167,
+   "materialName": "315 KVA T/F",
+   "unit": "NO",
+   "rate": 631400
+ },
+ {
+   "id": 168,
+   "materialName": "500 KVA T/F",
+   "unit": "NO",
+   "rate": 1392600
+ },
+ {
+   "id": 169,
+   "materialName": "Transformer Oil",
+   "unit": "NO",
+   "rate": 121.00
+ },
+ {
+   "id": 170,
+   "materialName": "Shackle Insulator",
+   "unit": "NO",
+   "rate": 15
+ },
+ {
+   "id": 171,
+   "materialName": "Egg Insulator 4500KN",
+   "unit": "NO",
+   "rate": 10
+ },
+ {
+   "id": 172,
+   "materialName": "D-Strap",
+   "unit": "NO",
+   "rate": 9
+ },
+  {
+    "id": 17245,
+    "materialName": "HT Shunt Capacitors 450KVAR",
+    "unit": "NO",
+    "rate": 47863
+  },
+  {
+    "id": 17256,
+    "materialName": "HT Shunt Capacitors 600KVAR",
+    "unit": "NO",
+    "rate": 65386
+  },
+  {
+    "id": 172561,
+    "materialName": "9KV 10KA Station LA",
+    "unit": "NO",
+    "rate": 3013
+  },
+  {
+    "id": 172562,
+    "materialName": "Aluminium Thimble",
+    "unit": "NO",
+    "rate": 20
+  },
+  {
+    "id": 172563,
+    "materialName": "Lineman Tool kit",
+    "unit": "NO",
+    "rate": 284
+  },
+  {
+    "id": 1725634,
+    "materialName": "BPL kits",
+    "unit": "NO",
+    "rate": 198
+  },
+ {
+   "id": 173,
+   "materialName": "Single Phase meter",
+   "unit": "NO",
+   "rate": 680
+ },
+  {
+    "id": 17312,
+    "materialName": "1P Smart meter",
+    "unit": "NO",
+    "rate": 3632
+  },
+  {
+    "id": 1731,
+    "materialName": "1P Bidirectional meter",
+    "unit": "NO",
+    "rate": 897.37
+  },
+ {
+   "id": 174,
+   "materialName": "Single Phase MCB",
+   "unit": "NO",
+   "rate": 549
+ },
+ {
+   "id": 175,
+   "materialName": "Three Phase meter",
+   "unit": "NO",
+   "rate": 1291.2
+ },
+  {
+    "id": 1751,
+    "materialName": "3P Smart meter",
+    "unit": "NO",
+    "rate": 6134
+  },
+  {
+    "id": 1752,
+    "materialName": "3P Bidirectional meter",
+    "unit": "NO",
+    "rate": 1796.35
+  },
+ {
+   "id": 176,
+   "materialName": "Three Phase MCB",
+   "unit": "NO",
+   "rate": 1081
+ },
+ {
+   "id": 177,
+   "materialName": "LT/CT Meter",
+   "unit": "NO",
+   "rate": 2463.5
+ },
+  {
+    "id": 1771,
+    "materialName": "LT/CT Smart Meter",
+    "unit": "NO",
+    "rate": 4946
+  },
+ {
+   "id": 1781,
+   "materialName": "LT/CT Set 100/5",
+   "unit": "NO",
+   "rate": 2076
+ },
+  {
+    "id": 1782,
+    "materialName": "LT/CT Set 200/5",
+    "unit": "NO",
+    "rate": 1093
+  },
+  {
+    "id": 1783,
+    "materialName": "LT/CT Set 400/5",
+    "unit": "NO",
+    "rate": 885
+  },
+ {
+   "id": 179,
+   "materialName": "LT/CT MCB",
+   "unit": "NO",
+   "rate": 6396.77
+ },
+  {
+    "id": 1791,
+    "materialName": "LT/CT Inbuilt",
+    "unit": "NO",
+    "rate": 11925
+  },
+ {
+   "id": 180,
+   "materialName": "11KV / HT Meter",
+   "unit": "NO",
+   "rate": 13757.31
+ },
+ {
+   "id": 181,
+   "materialName": "11KV CT/PT upto 30/5A",
+   "unit": "NO",
+   "rate": 75750
+ },
+  {
+    "id": 182,
+    "materialName": "11KV CT/PT 50-200/5A",
+    "unit": "NO",
+    "rate": 75000
+  },
+  {
+    "id": 183,
+    "materialName": "Pillar Box 20x1",
+    "unit": "NO",
+    "rate": 19931
+  },
+  {
+    "id": 184,
+    "materialName": "Pillar Box 4x1",
+    "unit": "NO",
+    "rate": 2630
+  },
+  {
+    "id": 1841,
+    "materialName": "Pillar Box 6x1",
+    "unit": "NO",
+    "rate": 3710
+  },
+  {
+    "id": 185,
+    "materialName": "MS Iron Scrap",
+    "unit": "KG",
+    "rate": 0
+  },
+  {
+    "id": 186,
+    "materialName": "GI Scrap",
+    "unit": "KG",
+    "rate": 0
+  },
+  {
+    "id": 187,
+    "materialName": "2/C PVC Scrap",
+    "unit": "KG",
+    "rate": 0
+  },
+  {
+    "id": 188,
+    "materialName": "4/C Cable Scrap",
+    "unit": "KG",
+    "rate": 0
+  },
+  {
+    "id": 189,
+    "materialName": "ACSR SCRAP",
+    "unit": "KG",
+    "rate": 0
+  },
+  {
+    "id": 190,
+    "materialName": "11KV CABLE SCRAP",
+    "unit": "KG",
+    "rate": 0
+  }
+]
